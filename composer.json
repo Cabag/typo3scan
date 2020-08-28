@@ -12,13 +12,13 @@
     "require": {
         "php": ">=7.0.8",
         "typo3/cms-scanner": "dev-master",
-        "symfony/process": "^3.4",
-        "symfony/finder": "^3.4",
-        "symfony/yaml": "^3.4",
-        "twig/twig": "^2.5",
-        "symfony/console": "^3.4",
-        "symfony/debug": "^3.4",
-        "symfony/filesystem": "^3.4"
+        "symfony/process": "*",
+        "symfony/finder": "*",
+        "symfony/yaml": "*",
+        "twig/twig": "*",
+        "symfony/console": "*",
+        "symfony/debug": "*",
+        "symfony/filesystem": "*"
     },
     "repositories": [
         {
